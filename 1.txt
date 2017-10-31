@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-fix in master
-=======
-here is a fix
-
-fix in rb
->>>>>>> fix in rb
+here is a update in master
