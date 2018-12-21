@@ -1,0 +1,19 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackycjs/gittest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackycjs/gittest/issues"
+  },
+  "homepage": "https://github.com/jackycjs/gittest#readme"
+}
