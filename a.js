@@ -1,1 +1,2 @@
-a
+var a
+var aa
